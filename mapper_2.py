@@ -1,3 +1,4 @@
+#Rincy Raju George(Big- Data problem)- Map Reduce to display the number of times the word occurs in each file.
 #!/usr/bin/env python 
 import sys
 import os
