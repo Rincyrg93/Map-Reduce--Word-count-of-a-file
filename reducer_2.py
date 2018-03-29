@@ -1,3 +1,4 @@
+#Rincy Raju George(Big- Data problem)- Reducer code to display the number of times the word occurs in each file.
 #!/usr/bin/env python 
 import sys
 import os
